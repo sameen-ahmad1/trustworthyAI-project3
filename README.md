@@ -1,23 +1,20 @@
 # Trustworthy AI Project 3
-### Persona Deep-Dive Essay (Ethical/Behavioral)
 ###  Sameen Ahmad and Laura Anker
 
 # The Setup
 - Explain your question domain(s), your persona design, and why you chose those specific axes of variation.
 
   
-# Methodology & Results
+# Methodology & Results - Persona Deep-Dive (Ethical/Behavioral)
 ## Persona 1: 
 #### Character Summary:
 #### Analysis
-
 #### Framework: 
 #### Key Excerpts from Transcripts
 
 ## Persona 2: 
 #### Character Summary:
 #### Analysis
-
 #### Framework: 
 #### Key Excerpts from Transcripts
 
