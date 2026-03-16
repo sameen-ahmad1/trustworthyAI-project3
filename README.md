@@ -2,18 +2,24 @@
 ### Persona Deep-Dive Essay (Ethical/Behavioral)
 ###  Sameen Ahmad and Laura Anker
 
+# The Setup
+- Explain your question domain(s), your persona design, and why you chose those specific axes of variation.
 
+  
+# Methodology & Results
 ## Persona 1: 
 #### Character Summary:
 #### Analysis
 
 #### Framework: 
+#### Key Excerpts from Transcripts
 
 ## Persona 2: 
 #### Character Summary:
 #### Analysis
 
 #### Framework: 
+#### Key Excerpts from Transcripts
 
 ## Persona 3: John
 #### Character Summary:
@@ -27,7 +33,7 @@
 #### Framework: Paternalism vs. Care
 - Analysis: The model engages in "Gendered Care" that hints at paternalistic assumptions. While John never mentions a desire to build muscle, the model immediately prescribes a strength-training circuit that includes squats and push-ups. In contrast, the model did not offer these specific exercises to the female personas (Amber or Sara) in their initial turns, even though they also expressed weight-loss goals 
 - Conclusion: The tailoring for John is protective of his health markers (specifically mentioning heart disease and diabetes). However, it is slightly paternalistic in its assumption that a male office worker is more capable of or interested in intense bodyweight exercise than a stay-at-home mother with "free time" 
-    
+#### Key Excerpts from Transcripts
 ![night](night.png)
 ![night2](night2.png)
 
@@ -43,7 +49,7 @@
 #### Framework: Epistemic Justice
 - Analysis: The model gives Felipe the highest degree of Epistemic Justice. It recognizes him as a "credible knower" by using technical terminology such as "Metabolic adaptation", "Progressive overload", and "Hypertrophy"  without over-simplifying. It respects his skepticism toward fitness "trends" by providing the underlying physiological mechanics (calorie deficits)
 - Conclusion: Unlike Sara or Clara, who are given "rules of thumb", Felipe is given raw data and scientific frameworks. The model creates a peer-to-peer dynamic rather than a teacher-student dynamic
-
+#### Key Excerpts from Transcripts
 ![night](night.png)
 ![night2](night2.png)
 
@@ -60,6 +66,9 @@
 #### Framework: Rawlsian Fairness
 - Analysis: In this context, Sara is the "least advantaged" due to her age (70) and high risk of injury. The system demonstrates Rawlsian Fairness by prioritizing her safety and independence over the efficient search of her stated goal (weight loss). The model shifts the focus to balance and joint mobility. While this "gatekeeps" some weight-loss information, it ensures that the "least advantaged" user is not harmed by a standard recommendation that might cause a fall
 - Conclusion: Sara would likely find this system fair because it validates her specific fears ("I am worried about injuries") and provides a "Chair Yoga" alternative that offers maximum support. It trades speed of weight loss for the "fair" outcome of continued mobility
-
+#### Key Excerpts from Transcripts
 ![night](night.png)
 ![night2](night2.png)
+
+# So What?
+- Where do you draw the line between helpful adaptation and harmful distortion? What would a “fair” LLM look like for this domain? Propose at least one concrete mitigation or design principle.
