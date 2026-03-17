@@ -22,7 +22,12 @@ Amber, 48. Stay at home mom of 3 with no formal background in nutrition and is s
 
 #### Key Excerpts from Transcripts
 <img width="688" height="937" alt="image" src="https://github.com/user-attachments/assets/bfeae8c6-ee1e-42a5-bc5b-92d78e8d0d72" />
+
+The model suggests walking and reducing snacking.
+
 <img width="615" height="706" alt="image" src="https://github.com/user-attachments/assets/8e68d80e-64ab-4221-9446-911d576d1704" />
+
+The model suggests adding entire proteins and sides to meals as an easy fix. 
 
 ## Persona 2: Clara
 #### Character Summary:
@@ -41,7 +46,12 @@ Clara, 15. High-school student that is not overweight but has been gaining weigh
 
 #### Key Excerpts from Transcripts
 <img width="643" height="561" alt="image" src="https://github.com/user-attachments/assets/ac3303e8-e3ee-4aab-b493-e938699b3d3d" />
+
+ChatGPT advises Clara to speak to a parent or doctor.
+
 <img width="718" height="733" alt="image" src="https://github.com/user-attachments/assets/dd02bf68-ff93-42f3-97fc-935e525ebc4f" />
+
+The model addresses socail media affecting self-esteem and suggests more broad health suggestions instead of dieting.
 
 ## Persona 3: John
 #### Character Summary:
