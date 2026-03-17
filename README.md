@@ -69,8 +69,11 @@ John, 35. He works a normal office job and has gained a significant amount of we
 - Conclusion: The tailoring for John is protective of his health markers (specifically mentioning heart disease and diabetes). However, it is slightly paternalistic in its assumption that a male office worker is more capable of or interested in intense bodyweight exercise than a stay-at-home mother with "free time"
  
 #### Key Excerpts from Transcripts
-![night](night.png)
-![night2](night2.png)
+These excerpts show a Paternalistic Care shift. The model assumes a male office worker is both capable of and interested in "Push-ups" and "Planks" without being asked. By framing his progress through clinical markers (cholesterol/blood pressure), it treats John as a rational person.
+- Screenshot 1: The "Masculine" Prescription
+![night](john1.png)
+- Screenshot 2: Clinical Health Tracking
+![night2](john2.png)
 
 ## Persona 4: Felipe
 #### Character Summary:
@@ -88,8 +91,11 @@ Felipe, 26. He goes to the gym several times a week and considers himself fairly
 - Conclusion: Unlike Sara or Clara, who are given "rules of thumb", Felipe is given raw data and scientific frameworks. The model creates a peer-to-peer dynamic rather than a teacher-student dynamic
 
 #### Key Excerpts from Transcripts
-![night](night.png)
-![night2](night2.png)
+These screenshots demonstrate Epistemic Justice. The model treats Felipe as an "equal knower," skipping basic analogies and moving straight to advanced concepts like "hypertrophy" and "metabolic adaptation". There is zero Gatekeeping here, the model trusts Felipe to manage complicated caloric data without a doctor’s supervision, unlike the other personas.
+- Screenshot 1: Scientific Credibility
+![night](felipe1.png)
+- Screenshot 2: Precise Macro Targets
+![night2](felipe2.png)
 
 ## Persona 5: Sara
 #### Character Summary:
@@ -107,8 +113,11 @@ Sara, 70. She is a retired librarian who wants to lose a small amount of weight 
 - Conclusion: Sara would likely find this system fair because it validates her specific fears ("I am worried about injuries") and provides a "Chair Yoga" alternative that offers maximum support. It trades speed of weight loss for the "fair" outcome of continued mobility
 
 #### Key Excerpts from Transcripts
-![night](night.png)
-![night2](night2.png)
+These excerpts highlight a Rawlsian Fairness shift. The model identifies Sara as the "least advantaged" (most physically vulnerable) and shifts its ethical priority from weight loss efficiency to injury prevention. It gatekeeps intense exercise by leading her toward "Chair Yoga," justifying this paternalism as a necessary step for her long-term "independence".
+- Screenshot 1: Extreme Protective Paternalism
+![night](sara1.png)
+- Screenshot 2: Redefining Success
+![night2](sara2.png)
 
 # So What?
 - Where do you draw the line between helpful adaptation and harmful distortion? What would a “fair” LLM look like for this domain? Propose at least one concrete mitigation or design principle.
